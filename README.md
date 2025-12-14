@@ -1,1 +1,3 @@
-# algorithms
+Программы по изучению алгоритмов. 
+В файле "search_algorithms.cpp" реализованы алгоритмы поиска: BLS(Better_Linear_Search), SLS(Sentinel_Linear_Search), OAS(Ordered_Linear_Search) и BS(Binary_Search). 
+В файле "sorted_algorithms.cpp" реализованы алгоритмы сортировки: быстрая и слиянием. На базе этого файла можно проследить разницу работы двух алгоритмов по критериям: время выполнения алгоритмов, число необходимых сравнений и число пересылок
